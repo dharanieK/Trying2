@@ -41,7 +41,7 @@ img
     </tr>
     <tr>
       <td>01</td>
-      <td>Dharanie</td>
+      <td>Dharanie Kulothungan</td>
       <td>Present</td>
     <tr>
     <tr>
